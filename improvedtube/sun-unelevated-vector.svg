@@ -44,8 +44,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="0.36875"
-     inkscape:cx="276.98664"
-     inkscape:cy="222.92424"
+     inkscape:cx="-224.70828"
+     inkscape:cy="217.50051"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -95,7 +95,9 @@
      fill="url(#b)"
      xlink:href="#a"
      id="use12"
-     inkscape:label="circle" />
+     inkscape:label="circle"
+     inkscape:export-xdpi="19.197836"
+     inkscape:export-ydpi="19.197836" />
   <path
      id="path879"
      d="m 188.52283,155.01593 v 337.96816 c 0,25.77171 28.3815,41.43046 50.23851,27.40279 L 504.30775,351.40287 c 20.22589,-12.7228 20.22589,-42.0829 0,-55.13191 L 238.76134,127.61311 c -21.85701,-14.02765 -50.23851,1.63111 -50.23851,27.40282 z"
