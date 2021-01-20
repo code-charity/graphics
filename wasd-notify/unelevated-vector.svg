@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 640 640"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="unelevated-vector.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/victor/Development/GitHub/icons/wasd-notify/16.png"
+   inkscape:export-xdpi="2.3997295"
+   inkscape:export-ydpi="2.3997295">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="0.15507813"
+     inkscape:cx="-2692.1914"
+     inkscape:cy="190.75606"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <defs
+     id="defs2" />
+  <defs
+     id="defs10">
+    <linearGradient
+       id="a"
+       x1="183.84"
+       x2="455.25"
+       y1="30.41"
+       y2="610.01"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#06beb6"
+         id="stop4" />
+      <stop
+         offset="100%"
+         stop-color="#021aee"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="183.84"
+       x2="455.25"
+       y1="30.41"
+       y2="610.01"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+  </defs>
+  <defs
+     id="defs13">
+    <path
+       id="c"
+       d="M610.01 184.75c74.65 160.06 5.3 350.61-154.76 425.26-160.06 74.65-350.61 5.3-425.26-154.76-74.65-160.06-5.3-350.61 154.76-425.26 160.06-74.65 350.61-5.3 425.26 154.76z" />
+  </defs>
+  <use
+     fill="url(#b)"
+     xlink:href="#c"
+     id="use15" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:400px;line-height:1.25;font-family:sans-serif;opacity:0.9;fill:#000000;fill-opacity:1;stroke:none"
+     x="99.6875"
+     y="485.80078"
+     id="text27"><tspan
+       sodipodi:role="line"
+       id="tspan25"
+       x="99.6875"
+       y="485.80078"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:400px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">W</tspan></text>
+</svg>
