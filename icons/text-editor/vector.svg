@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 640">
+  <defs>
+    <filter id="d" color-interpolation-filters="sRGB">
+      <feFlood flood-color="#FFF" flood-opacity=".451" result="flood"/>
+      <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+      <feGaussianBlur in="composite1" result="blur" stdDeviation="1"/>
+      <feOffset dy="16" result="offset"/>
+      <feComposite in="offset" in2="SourceGraphic" operator="atop" result="composite2"/>
+    </filter>
+    <filter id="f" color-interpolation-filters="sRGB">
+      <feFlood flood-color="#FFF" flood-opacity=".502" result="flood"/>
+      <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+      <feGaussianBlur in="composite1" result="blur"/>
+      <feOffset dy="-12" result="offset"/>
+      <feComposite in="SourceGraphic" in2="offset" result="fbSourceGraphic"/>
+      <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+      <feFlood flood-color="#000" flood-opacity=".122" result="flood"/>
+      <feComposite in="flood" in2="fbSourceGraphic" operator="in" result="composite1"/>
+      <feGaussianBlur in="composite1" result="blur" stdDeviation="4"/>
+      <feOffset dy="12" result="offset"/>
+      <feComposite in="fbSourceGraphic" in2="offset" result="composite2"/>
+    </filter>
+    <linearGradient id="a" x1="183.84" x2="455.25" y1="30.41" y2="610.01" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffbf00"/>
+      <stop offset="100%" stop-color="#fa0"/>
+    </linearGradient>
+    <path id="e" d="M9.506 22.617h634.478v599.907H9.506z"/>
+  </defs>
+  <defs>
+    <linearGradient xlink:href="#a" id="b" x1="183.84" x2="455.25" y1="30.41" y2="610.01" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffd500"/>
+      <stop offset="100%" stop-color="#ff9500"/>
+    </linearGradient>
+    <path id="c" d="M610.01 184.75c74.65 160.06 5.3 350.61-154.76 425.26-160.06 74.65-350.61 5.3-425.26-154.76-74.65-160.06-5.3-350.61 154.76-425.26 160.06-74.65 350.61-5.3 425.26 154.76z"/>
+  </defs>
+  <use xlink:href="#c" width="100%" height="100%" fill="url(#b)" filter="url(#d)" transform="matrix(.99989 0 0 .99989 .036 .036)"/>
+  <text xml:space="preserve" filter="url(#f)" font-family="sans-serif" font-size="333.333" font-weight="400" style="line-height:1;white-space:pre;shape-inside:url(#e)" transform="translate(174.85 133.762)"><tspan x="9.506" y="340.425"><tspan fill="#fff" font-family="Roboto Slab" font-size="400" font-weight="700" style="-inkscape-font-specification:'Roboto Slab Bold'">T</tspan></tspan></text>
+</svg>
